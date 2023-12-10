@@ -1,4 +1,9 @@
-# bda
+2023년도 가을학기 빅데이터 과제
+## ipynb index
+* [CommitsAndConventionPatternAnalysis_20231210](https://github.com/imeugeneco/bda/blob/main/CommitsAndConventionPatternAnalysis_20231210.ipynb)
+* [ProgrammingLanguageDistribution_20231210](https://github.com/imeugeneco/bda/blob/main/ProgrammingLanguageDistribution_20231210.ipynb)
+
+## Results
 ![image](https://github.com/imeugeneco/bda/assets/47231140/804332b5-9ea8-4a16-852d-aeb8bbe54746)
 ![image](https://github.com/imeugeneco/bda/assets/47231140/7d078c2c-9fea-4347-a006-400ff1d3d909)
 ![image](https://github.com/imeugeneco/bda/assets/47231140/0d7f25f3-e853-4d66-880c-f286684f9580)
